@@ -1,0 +1,27 @@
+{
+  "name": "ordinarycanoe",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "webpack-dev-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hhtran/OrdinaryCanoe.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hhtran/OrdinaryCanoe/issues"
+  },
+  "homepage": "https://github.com/hhtran/OrdinaryCanoe#readme",
+  "dependencies": {
+    "react": "^15.4.0-rc.4",
+    "react-dom": "^15.4.0-rc.4",
+    "react-router": "^2.8.1"
+  },
+  "devDependencies": {
+    "babel-preset-stage-0": "^6.16.0"
+  }
+}
